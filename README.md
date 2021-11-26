@@ -22,7 +22,8 @@ Installation
 
 6. When requesting license from xtream panel, open winscp or other similar program and go to the folder located in [var / www / html / modules / servers / licensig] and edit the verify.php folder, and then I followed her <? php will paste this
 
-< // If U Want Change Licenses Here, From Bubi1, 2, 3, etc. Insert Ur Name
+ // If U Want Change Licenses Here, From Bubi1, 2, 3, etc. Insert Ur Name
+
 <  $ Licenses = array ('bubi1');
 
 7. back to putty license [bubi1]
