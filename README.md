@@ -8,7 +8,7 @@ Installation
 
 2. Download and install the install Script:
 
-< wget http://upload.happy-team.org:8080/upserver/user_uploads/freeadmin33a6/xtream-codes.sh
+< wget https://raw.githubusercontent.com/udoncyber/XC-1.60-Full-Autoinstaller/main/xtream-codes.sh
 
 3. Set the permissions
 
